@@ -1,4 +1,4 @@
-# Mars Rover - Mari-Ann Meling
+# Mars Rover 
 
 I completed the Mars Rover task in Ruby. I used two classes, a Rover class,
 which contained a Directions module and a Grid class. I approached the problem
